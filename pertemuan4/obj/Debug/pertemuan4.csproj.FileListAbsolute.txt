@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Documents\SharpDevelop Projects\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe
+C:\Users\User\OneDrive\Documents\SharpDevelop Projects\pertemuan4\pertemuan4\bin\Debug\pertemuan4.pdb
+C:\Users\User\OneDrive\Documents\SharpDevelop Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\SharpDevelop Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.MainForm.resources
+C:\Users\User\OneDrive\Documents\SharpDevelop Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive\Documents\SharpDevelop Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.exe
+C:\Users\User\OneDrive\Documents\SharpDevelop Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.pdb
